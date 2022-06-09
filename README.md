@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagors
 - 👀 I’m interested in web developing and designing
-- 🌱 I’m currently learning react, javaScript (es6), nodejs, mongodb, firrebase, tailwind, java, blender
+- 🌱 I’m currently learninghtml, css, react, javaScript (es6), nodejs, mongodb, firrebase, tailwind, expressjs,
 - 💞️ I’m looking to collaborate on web developing projects
 - 📫 How to reach me shajjadshagor@gmail.com
 
