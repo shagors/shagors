@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagors.
 - 👀 I’m interested in web developing and designing.
-- 🌱 I’m currently working this React, javaScript (es6), typescript❤️, html, css, node.js, express.js, mongodb, firebase, tailwind, shadcn, antd, stripe, MySQL, vite, Nextjs.
+- 🌱 I’m currently working this React, JavaScript (es6), TypeScript❤️, html, css, node.js, express.js, mongodb, firebase, tailwind, shadcn, antd, stripe, MySQL, vite, Nextjs.
 - I’m currently learning python.
 - 💞️ I’m looking to collaborate on web developing projects.
 - 📫 How to reach me shajjadshagor@gmail.com
