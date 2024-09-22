@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working this React, Next.js, JavaScript (es6), TypeScript❤️, html, CSS, node.js, express.js, Mongodb, firebase, tailwind CSS, Shadcn, Ant Design, MUI, stripe, MySQL, Vercel, Render, Heroku, Windows Server.<br>👯  I’m looking to collaborate on Full Stack and web developing projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning python.<br>💬 How to reach me shajjadshagor@gmail.com<br>⚡ I love always learn new technology. I'm a photographer and I love to take wildlife photo.
+🔭 I’m currently working this React, Next.js, JavaScript (es6), TypeScript❤️, Shopify, html, CSS, node.js, express.js, Mongodb, firebase, tailwind CSS, Shadcn, Ant Design, MUI, stripe, MySQL, Vercel, Render, Heroku, Windows Server.<br>👯  I’m looking to collaborate on Full Stack and web developing projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning python.<br>💬 How to reach me shajjadshagor@gmail.com<br>⚡ I love always learn new technology. I'm a photographer and I love to take wildlife photo.
 
 ## [My Portfolio Link](https://shajjad-dev.vercel.app/)
 
